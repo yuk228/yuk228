@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Yuki from .Japan<br><br>- 🔭 I’m high school student<br>- 📚 I'm currently learning TypeScript, Reactjs, Next.js<br>- ⚡ In my free time, I sleep or write code.</p>
+<p align="left">I'm Yuki from Japan🇯🇵<br><br>- 🔭 I’m high school student<br>- 📚 I'm currently learning TypeScript, Reactjs, Next.js<br>- ⚡ In my free time, I sleep or write code.</p>
 
 ###
 
