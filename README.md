@@ -6,8 +6,7 @@
 
 ###
 
-<p align="left">I'm Yuki from Japan🇯🇵<br><br>- 🔭 I’m high school student<br>- 📚 I'm currently learning TypeScript, Reactjs, Next.js<br>- ⚡ In my free time, I sleep or write code.</p>
-
+<p align="left">I'm Yuki from Japan🇯🇵<br><br>- 🔭 I’m high school student<br>- 📚 I'm currently learning TypeScript, Reactjs, Next.js
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -41,9 +40,6 @@
 ###
 
 <div align="left">
-  <a href="https://x.com/yuk228_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
   <a href="https://discordapp.com/users/1327859790088503409" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
