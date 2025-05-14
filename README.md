@@ -7,6 +7,7 @@
 ###
 
 <p align="left">I'm Yuki from Japan🇯🇵<br><br>- 🔭 I’m high school student<br>- 📚 I'm currently learning TypeScript, Reactjs, Next.js
+  
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
