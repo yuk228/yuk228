@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 I'm Yuki from japan 🇯🇵<br>🖊 I'm high school student<br>💻 I'm currently learning TypeScript, Next.js, React.js</p>
+<p align="left">👋 I'm Yuki from Japan 🇯🇵<br>🖊 I'm high school student<br>💻 I'm currently learning TypeScript, Next.js, React.js</p>
 
 ###
 [![My Skills](https://skillicons.dev/icons?i=py,js,ts,react,next,html,css,tailwindcss)](https://skillicons.dev)
