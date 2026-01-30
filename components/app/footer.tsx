@@ -23,7 +23,7 @@ export default function Footer() {
         <p className="text-sm text-muted-foreground">
           Source code available on{' '}
           <Link
-            href="https://github.com/yuk228/bio"
+            href="https://github.com/yuk228/yuk228"
             className="hover:text-foreground transition-colors underline underline-offset-2"
           >
             GitHub
